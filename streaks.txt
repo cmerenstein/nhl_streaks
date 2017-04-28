@@ -1,0 +1,528 @@
+seasons/2000_2001.csv
+San Jose Sharks	217	192
+Mighty Ducks of Anaheim	188	245
+Detroit Red Wings	253	202
+Carolina Hurricanes	212	225
+Boston Bruins	227	249
+Florida Panthers	200	246
+Atlanta Thrashers	211	289
+Buffalo Sabres	218	184
+Montreal Canadiens	206	232
+Edmonton Oilers	243	222
+Pittsburgh Penguins	281	256
+Phoenix Coyotes	214	212
+New York Rangers	250	290
+Washington Capitals	233	211
+Toronto Maple Leafs	232	207
+Minnesota Wild	168	210
+Dallas Stars	241	187
+New Jersey Devils	295	195
+St. Louis Blues	249	195
+Columbus Blue Jackets	190	233
+Tampa Bay Lightning	201	280
+Los Angeles Kings	252	228
+Calgary Flames	197	236
+Chicago Blackhawks	210	246
+Colorado Avalanche	270	192
+Nashville Predators	186	200
+Ottawa Senators	274	205
+New York Islanders	185	268
+Vancouver Canucks	239	238
+Philadelphia Flyers	240	207
+seasons/2001_2002.csv
+San Jose Sharks	248	199
+Mighty Ducks of Anaheim	175	198
+Detroit Red Wings	251	187
+Carolina Hurricanes	217	217
+Boston Bruins	236	201
+Florida Panthers	180	250
+Atlanta Thrashers	187	288
+Buffalo Sabres	213	200
+Montreal Canadiens	207	209
+Edmonton Oilers	205	182
+Pittsburgh Penguins	198	249
+Phoenix Coyotes	228	210
+New York Rangers	227	258
+Washington Capitals	228	240
+Toronto Maple Leafs	249	207
+Minnesota Wild	195	238
+Dallas Stars	215	213
+New Jersey Devils	205	187
+St. Louis Blues	227	188
+Columbus Blue Jackets	164	255
+Tampa Bay Lightning	178	219
+Los Angeles Kings	214	190
+Calgary Flames	201	220
+Chicago Blackhawks	216	207
+Colorado Avalanche	212	169
+Nashville Predators	196	230
+Ottawa Senators	243	208
+New York Islanders	239	220
+Vancouver Canucks	254	211
+Philadelphia Flyers	234	192
+seasons/2002_2003.csv
+San Jose Sharks	214	239
+Mighty Ducks of Anaheim	203	193
+Detroit Red Wings	269	203
+Carolina Hurricanes	171	240
+Boston Bruins	245	237
+Columbus Blue Jackets	213	263
+Florida Panthers	176	237
+Buffalo Sabres	190	219
+Atlanta Thrashers	226	284
+Montreal Canadiens	206	234
+Edmonton Oilers	231	230
+Pittsburgh Penguins	189	255
+Phoenix Coyotes	204	230
+New York Rangers	210	231
+Washington Capitals	224	220
+Vancouver Canucks	264	208
+Minnesota Wild	198	178
+Dallas Stars	245	169
+New Jersey Devils	216	166
+St. Louis Blues	253	222
+Tampa Bay Lightning	219	210
+Los Angeles Kings	203	221
+Calgary Flames	186	228
+Chicago Blackhawks	207	226
+Colorado Avalanche	251	194
+Nashville Predators	183	206
+Ottawa Senators	263	182
+New York Islanders	224	231
+Toronto Maple Leafs	236	208
+Philadelphia Flyers	211	166
+seasons/2003_2004.csv
+San Jose Sharks	219	183
+Mighty Ducks of Anaheim	184	213
+Detroit Red Wings	255	189
+Carolina Hurricanes	172	209
+Boston Bruins	209	188
+Florida Panthers	188	221
+Columbus Blue Jackets	177	238
+Buffalo Sabres	220	221
+Montreal Canadiens	208	192
+Edmonton Oilers	221	208
+Pittsburgh Penguins	190	303
+Phoenix Coyotes	188	245
+New York Rangers	206	250
+Washington Capitals	186	253
+Tampa Bay Lightning	245	192
+Colorado Avalanche	236	198
+Minnesota Wild	188	183
+Dallas Stars	194	175
+New Jersey Devils	213	164
+St. Louis Blues	191	198
+Atlanta Thrashers	214	243
+Los Angeles Kings	205	217
+Calgary Flames	200	176
+Chicago Blackhawks	188	259
+New York Islanders	237	210
+Nashville Predators	216	217
+Ottawa Senators	262	189
+Vancouver Canucks	235	194
+Philadelphia Flyers	229	186
+Toronto Maple Leafs	242	204
+seasons/2005_2006.csv
+San Jose Sharks	265	235
+Mighty Ducks of Anaheim	251	222
+Detroit Red Wings	301	206
+Carolina Hurricanes	286	258
+Boston Bruins	228	258
+Atlanta Thrashers	276	270
+Florida Panthers	236	252
+Buffalo Sabres	276	234
+Montreal Canadiens	241	244
+Edmonton Oilers	249	242
+Pittsburgh Penguins	243	310
+Phoenix Coyotes	242	268
+New York Rangers	250	211
+Washington Capitals	230	300
+Vancouver Canucks	252	251
+Colorado Avalanche	280	251
+Minnesota Wild	226	212
+Dallas Stars	253	217
+New Jersey Devils	233	225
+St. Louis Blues	193	284
+Columbus Blue Jackets	215	276
+Tampa Bay Lightning	246	256
+Los Angeles Kings	243	269
+Calgary Flames	216	193
+Chicago Blackhawks	209	279
+New York Islanders	221	275
+Nashville Predators	253	224
+Ottawa Senators	312	205
+Toronto Maple Leafs	254	263
+Philadelphia Flyers	263	253
+seasons/2006_2007.csv
+San Jose Sharks	256	197
+Detroit Red Wings	252	191
+Carolina Hurricanes	241	248
+Boston Bruins	210	285
+Atlanta Thrashers	239	241
+Columbus Blue Jackets	196	244
+Anaheim Ducks	254	198
+Buffalo Sabres	298	238
+Montreal Canadiens	239	251
+Edmonton Oilers	192	245
+Pittsburgh Penguins	267	240
+Phoenix Coyotes	211	282
+New York Rangers	233	211
+Washington Capitals	234	275
+Vancouver Canucks	217	197
+Minnesota Wild	225	184
+Dallas Stars	217	193
+New Jersey Devils	206	193
+Florida Panthers	245	249
+St. Louis Blues	208	248
+Tampa Bay Lightning	243	259
+Los Angeles Kings	223	277
+Calgary Flames	255	221
+Chicago Blackhawks	195	251
+Colorado Avalanche	267	247
+Nashville Predators	266	207
+Ottawa Senators	286	216
+New York Islanders	240	235
+Toronto Maple Leafs	254	262
+Philadelphia Flyers	213	297
+seasons/2007_2008.csv
+San Jose Sharks	216	187
+Detroit Red Wings	252	179
+Carolina Hurricanes	250	246
+Boston Bruins	206	215
+Florida Panthers	211	220
+Atlanta Thrashers	207	266
+Anaheim Ducks	197	184
+Buffalo Sabres	251	233
+Montreal Canadiens	257	216
+Edmonton Oilers	220	247
+Pittsburgh Penguins	240	212
+Phoenix Coyotes	209	225
+New York Rangers	205	190
+Washington Capitals	238	227
+Vancouver Canucks	207	206
+Minnesota Wild	220	210
+Dallas Stars	237	204
+New Jersey Devils	198	193
+St. Louis Blues	202	232
+Columbus Blue Jackets	190	210
+Tampa Bay Lightning	221	266
+Los Angeles Kings	226	263
+Calgary Flames	226	224
+Chicago Blackhawks	234	231
+Colorado Avalanche	224	216
+Nashville Predators	227	224
+Ottawa Senators	258	242
+New York Islanders	189	240
+Toronto Maple Leafs	228	256
+Philadelphia Flyers	245	227
+seasons/2008_2009.csv
+San Jose Sharks	251	199
+Detroit Red Wings	289	240
+Carolina Hurricanes	236	221
+Boston Bruins	270	190
+Columbus Blue Jackets	220	223
+Atlanta Thrashers	250	279
+Anaheim Ducks	238	235
+Buffalo Sabres	242	229
+Montreal Canadiens	242	240
+Edmonton Oilers	228	244
+Pittsburgh Penguins	258	233
+Phoenix Coyotes	205	249
+New York Rangers	200	212
+Washington Capitals	268	240
+Vancouver Canucks	243	213
+Minnesota Wild	214	197
+Dallas Stars	224	251
+New Jersey Devils	238	207
+Florida Panthers	231	223
+St. Louis Blues	227	227
+Tampa Bay Lightning	207	269
+Los Angeles Kings	202	226
+Calgary Flames	251	246
+Chicago Blackhawks	260	209
+Colorado Avalanche	190	253
+Nashville Predators	207	228
+Ottawa Senators	213	231
+New York Islanders	198	274
+Toronto Maple Leafs	244	286
+Philadelphia Flyers	260	232
+seasons/2009_2010.csv
+San Jose Sharks	257	209
+Detroit Red Wings	223	207
+Carolina Hurricanes	226	251
+Boston Bruins	196	191
+Columbus Blue Jackets	214	249
+Florida Panthers	202	234
+Anaheim Ducks	233	243
+Buffalo Sabres	231	201
+Atlanta Thrashers	230	250
+Montreal Canadiens	210	218
+Edmonton Oilers	206	278
+Pittsburgh Penguins	249	235
+Phoenix Coyotes	211	196
+New York Rangers	219	214
+Washington Capitals	313	227
+Toronto Maple Leafs	210	263
+Minnesota Wild	214	239
+Dallas Stars	230	244
+New Jersey Devils	216	186
+St. Louis Blues	218	218
+Tampa Bay Lightning	213	253
+Los Angeles Kings	231	211
+Calgary Flames	201	203
+Chicago Blackhawks	262	203
+Colorado Avalanche	237	228
+Nashville Predators	217	221
+Ottawa Senators	220	233
+New York Islanders	214	258
+Vancouver Canucks	268	218
+Philadelphia Flyers	232	222
+seasons/2010_2011.csv
+San Jose Sharks	243	208
+Detroit Red Wings	257	237
+Carolina Hurricanes	231	234
+Boston Bruins	244	189
+Atlanta Thrashers	218	262
+Columbus Blue Jackets	210	250
+Anaheim Ducks	235	233
+Buffalo Sabres	240	228
+Montreal Canadiens	213	206
+Edmonton Oilers	191	260
+Pittsburgh Penguins	228	196
+Phoenix Coyotes	226	220
+New York Rangers	224	195
+Washington Capitals	219	191
+Vancouver Canucks	258	180
+Minnesota Wild	203	228
+Dallas Stars	222	226
+New Jersey Devils	171	207
+Florida Panthers	191	222
+St. Louis Blues	236	228
+Tampa Bay Lightning	241	234
+Los Angeles Kings	209	196
+Calgary Flames	241	230
+Chicago Blackhawks	252	220
+Colorado Avalanche	221	287
+Nashville Predators	213	190
+Ottawa Senators	190	245
+New York Islanders	225	258
+Toronto Maple Leafs	213	245
+Philadelphia Flyers	256	216
+seasons/2011_2012.csv
+San Jose Sharks	219	205
+Detroit Red Wings	239	200
+Carolina Hurricanes	212	237
+Boston Bruins	260	199
+Columbus Blue Jackets	198	257
+Florida Panthers	197	216
+Anaheim Ducks	201	224
+Buffalo Sabres	211	223
+Montreal Canadiens	207	214
+Edmonton Oilers	207	232
+Pittsburgh Penguins	273	218
+Phoenix Coyotes	210	194
+New York Rangers	222	182
+Washington Capitals	218	226
+Toronto Maple Leafs	227	259
+Minnesota Wild	166	217
+Dallas Stars	204	218
+Winnipeg Jets	221	242
+New Jersey Devils	216	205
+St. Louis Blues	206	155
+Tampa Bay Lightning	232	278
+Los Angeles Kings	188	170
+Calgary Flames	199	217
+Chicago Blackhawks	241	231
+Colorado Avalanche	199	218
+Nashville Predators	232	205
+Ottawa Senators	243	236
+New York Islanders	196	251
+Vancouver Canucks	241	191
+Philadelphia Flyers	260	225
+seasons/2013_2014.csv
+San Jose Sharks	239	193
+Detroit Red Wings	217	221
+Carolina Hurricanes	205	226
+Boston Bruins	258	171
+Florida Panthers	188	262
+Columbus Blue Jackets	226	214
+Anaheim Ducks	263	203
+Buffalo Sabres	150	243
+Montreal Canadiens	209	201
+Edmonton Oilers	199	267
+Pittsburgh Penguins	242	204
+Phoenix Coyotes	210	224
+New York Rangers	214	190
+Washington Capitals	225	229
+Toronto Maple Leafs	222	252
+Minnesota Wild	199	198
+Dallas Stars	231	223
+Winnipeg Jets	219	231
+New Jersey Devils	197	195
+St. Louis Blues	239	188
+Tampa Bay Lightning	232	209
+Los Angeles Kings	198	168
+Calgary Flames	202	238
+Chicago Blackhawks	261	212
+Colorado Avalanche	245	216
+Nashville Predators	214	233
+Ottawa Senators	229	258
+New York Islanders	216	261
+Vancouver Canucks	191	216
+Philadelphia Flyers	233	227
+seasons/2014_2015.csv
+San Jose Sharks	224	226
+Detroit Red Wings	231	211
+Nashville Predators	226	202
+Carolina Hurricanes	183	219
+Boston Bruins	209	201
+Columbus Blue Jackets	227	248
+Florida Panthers	198	213
+Anaheim Ducks	228	221
+Buffalo Sabres	153	269
+Montreal Canadiens	214	184
+Edmonton Oilers	193	276
+Pittsburgh Penguins	217	204
+New York Rangers	248	187
+Washington Capitals	237	199
+Toronto Maple Leafs	206	257
+Minnesota Wild	227	198
+Dallas Stars	257	257
+Winnipeg Jets	223	204
+New Jersey Devils	176	209
+St. Louis Blues	239	197
+Tampa Bay Lightning	259	206
+Los Angeles Kings	218	197
+Calgary Flames	237	213
+Chicago Blackhawks	220	186
+Colorado Avalanche	209	223
+Arizona Coyotes	165	267
+Ottawa Senators	232	208
+New York Islanders	245	224
+Vancouver Canucks	236	220
+Philadelphia Flyers	212	223
+seasons/2015_2016.csv
+San Jose Sharks	237	207
+Detroit Red Wings	209	219
+Arizona Coyotes	208	244
+Carolina Hurricanes	196	221
+Boston Bruins	236	228
+Columbus Blue Jackets	213	248
+Florida Panthers	232	200
+Anaheim Ducks	215	188
+Buffalo Sabres	199	215
+Montreal Canadiens	216	233
+Edmonton Oilers	199	242
+Pittsburgh Penguins	241	199
+New York Rangers	233	215
+Washington Capitals	248	191
+Toronto Maple Leafs	192	240
+Minnesota Wild	213	204
+Dallas Stars	265	228
+Winnipeg Jets	212	236
+New Jersey Devils	182	202
+St. Louis Blues	219	197
+Tampa Bay Lightning	224	198
+Los Angeles Kings	223	192
+Calgary Flames	229	257
+Chicago Blackhawks	234	207
+Colorado Avalanche	212	240
+Nashville Predators	224	213
+Ottawa Senators	230	241
+New York Islanders	227	211
+Vancouver Canucks	186	239
+Philadelphia Flyers	211	210
+seasons/2016_2017.csv
+San Jose Sharks	219	200
+Detroit Red Wings	198	244
+Arizona Coyotes	191	258
+Carolina Hurricanes	212	230
+Boston Bruins	232	209
+Columbus Blue Jackets	247	193
+Florida Panthers	205	231
+Anaheim Ducks	220	197
+Buffalo Sabres	199	231
+Montreal Canadiens	223	198
+Edmonton Oilers	243	207
+Pittsburgh Penguins	278	229
+New York Rangers	253	216
+Washington Capitals	261	177
+Vancouver Canucks	178	241
+Colorado Avalanche	165	276
+Minnesota Wild	263	206
+Dallas Stars	222	260
+Winnipeg Jets	246	255
+New Jersey Devils	180	241
+St. Louis Blues	233	216
+Tampa Bay Lightning	230	224
+Los Angeles Kings	199	201
+Calgary Flames	222	219
+Chicago Blackhawks	240	212
+New York Islanders	239	238
+Nashville Predators	238	220
+Ottawa Senators	206	210
+Toronto Maple Leafs	250	234
+Philadelphia Flyers	212	231
+[['2001-02-26', 'Florida Panthers', '3', 'New Jersey Devils', '5', '', '', '', '\n', 64, 62, '2000_2001'], ['2001-02-27', 'New Jersey Devils', '4', 'New York Islanders', '1', '', '', '', '\n', 63, 63, '2000_2001'], ['2001-03-02', 'Carolina Hurricanes', '3', 'New Jersey Devils', '7', '', '', '', '\n', 64, 64, '2000_2001'], ['2001-03-04', 'Tampa Bay Lightning', '0', 'New Jersey Devils', '6', '', '', '', '\n', 66, 65, '2000_2001'], ['2001-03-06', 'Ottawa Senators', '2', 'New Jersey Devils', '3', 'OT', '', '', '\n', 66, 66, '2000_2001'], ['2001-03-08', 'Minnesota Wild', '2', 'New Jersey Devils', '6', '', '', '', '\n', 67, 67, '2000_2001'], ['2001-03-10', 'New Jersey Devils', '3', 'Philadelphia Flyers', '2', '', '', '', '\n', 68, 69, '2000_2001'], ['2001-03-13', 'New Jersey Devils', '6', 'Colorado Avalanche', '3', '', '', '', '\n', 69, 70, '2000_2001'], ['2001-03-14', 'New Jersey Devils', '3', 'Phoenix Coyotes', '2', '', '', '', '\n', 70, 70, '2000_2001'], ['2001-03-17', 'New Jersey Devils', '6', 'Edmonton Oilers', '5', 'OT', '', '', '\n', 71, 72, '2000_2001'], ['2001-03-19', 'New Jersey Devils', '4', 'Calgary Flames', '2', '', '', '', '\n', 72, 72, '2000_2001'], ['2001-03-21', 'New York Rangers', '0', 'New Jersey Devils', '4', '', '', '', '\n', 73, 73, '2000_2001'], ['2001-03-23', 'Vancouver Canucks', '0', 'New Jersey Devils', '4', '', '', '', '\n', 75, 74, '2000_2001']]
+13
+('2000_2001', 'New Jersey Devils')
+[['2002-01-03', 'Columbus Blue Jackets', '2', 'St. Louis Blues', '4', '', '', '', '\n', 40, 40, '2001_2002'], ['2002-01-05', 'Dallas Stars', '2', 'St. Louis Blues', '5', '', '', '', '\n', 41, 41, '2001_2002'], ['2002-01-08', 'St. Louis Blues', '6', 'San Jose Sharks', '2', '', '', '', '\n', 42, 42, '2001_2002'], ['2002-01-09', 'St. Louis Blues', '3', 'Mighty Ducks of Anaheim', '2', '', '', '', '\n', 43, 45, '2001_2002'], ['2002-01-12', 'St. Louis Blues', '4', 'Pittsburgh Penguins', '1', '', '', '', '\n', 44, 44, '2001_2002'], ['2002-01-15', 'Edmonton Oilers', '2', 'St. Louis Blues', '3', '', '', '', '\n', 49, 45, '2001_2002'], ['2002-01-17', 'Vancouver Canucks', '4', 'St. Louis Blues', '5', '', '', '', '\n', 49, 46, '2001_2002'], ['2002-01-19', 'Boston Bruins', '1', 'St. Louis Blues', '2', 'OT', '', '', '\n', 48, 47, '2001_2002'], ['2002-01-21', 'St. Louis Blues', '4', 'Boston Bruins', '3', 'OT', '', '', '\n', 48, 49, '2001_2002'], ['2002-01-23', 'St. Louis Blues', '5', 'Buffalo Sabres', '2', '', '', '', '\n', 49, 50, '2001_2002']]
+10
+('2001_2002', 'St. Louis Blues')
+[['2002-11-09', 'Vancouver Canucks', '5', 'Phoenix Coyotes', '2', '', '', '', '\n', 15, 15, '2002_2003'], ['2002-11-12', 'St. Louis Blues', '3', 'Vancouver Canucks', '6', '', '', '', '\n', 14, 16, '2002_2003'], ['2002-11-14', 'Los Angeles Kings', '2', 'Vancouver Canucks', '3', '', '', '', '\n', 17, 17, '2002_2003'], ['2002-11-16', 'New York Rangers', '1', 'Vancouver Canucks', '3', '', '', '', '\n', 20, 18, '2002_2003'], ['2002-11-20', 'Chicago Blackhawks', '3', 'Vancouver Canucks', '5', '', '', '', '\n', 19, 19, '2002_2003'], ['2002-11-22', 'Detroit Red Wings', '1', 'Vancouver Canucks', '4', '', '', '', '\n', 19, 20, '2002_2003'], ['2002-11-25', 'Vancouver Canucks', '2', 'Minnesota Wild', '1', '', '', '', '\n', 21, 23, '2002_2003'], ['2002-11-27', 'Vancouver Canucks', '3', 'Carolina Hurricanes', '2', '', '', '', '\n', 22, 23, '2002_2003'], ['2002-11-29', 'Vancouver Canucks', '5', 'Tampa Bay Lightning', '3', '', '', '', '\n', 23, 23, '2002_2003'], ['2002-11-30', 'Vancouver Canucks', '5', 'Florida Panthers', '2', '', '', '', '\n', 24, 25, '2002_2003']]
+10
+('2002_2003', 'Vancouver Canucks')
+[['2006-03-28', 'New Jersey Devils', '3', 'Ottawa Senators', '2', 'SO', '', '', '\n', 72, 71, '2005_2006'], ['2006-03-30', 'Buffalo Sabres', '1', 'New Jersey Devils', '3', '', '', '', '\n', 73, 73, '2005_2006'], ['2006-04-01', 'New Jersey Devils', '4', 'Philadelphia Flyers', '1', '', '', '', '\n', 74, 73, '2005_2006'], ['2006-04-02', 'New Jersey Devils', '3', 'Pittsburgh Penguins', '2', 'OT', '', '', '\n', 75, 74, '2005_2006'], ['2006-04-05', 'Pittsburgh Penguins', '4', 'New Jersey Devils', '6', '', '', '', '\n', 75, 76, '2005_2006'], ['2006-04-08', 'New Jersey Devils', '3', 'Montreal Canadiens', '2', '', '', '', '\n', 77, 77, '2005_2006'], ['2006-04-09', 'New York Rangers', '2', 'New Jersey Devils', '3', '', '', '', '\n', 78, 78, '2005_2006'], ['2006-04-11', 'New Jersey Devils', '4', 'Carolina Hurricanes', '3', 'OT', '', '', '\n', 79, 79, '2005_2006'], ['2006-04-13', 'Philadelphia Flyers', '1', 'New Jersey Devils', '4', '', '', '', '\n', 79, 80, '2005_2006'], ['2006-04-16', 'Philadelphia Flyers', '1', 'New Jersey Devils', '5', '', '', '', '\n', 81, 81, '2005_2006'], ['2006-04-18', 'New Jersey Devils', '4', 'Montreal Canadiens', '3', '', '', '', '\n', 82, 82, '2005_2006']]
+11
+('2005_2006', 'New Jersey Devils')
+[['2006-10-04', 'Buffalo Sabres', '3', 'Carolina Hurricanes', '2', 'SO', '', '', '\n', 1, 1, '2006_2007'], ['2006-10-06', 'Montreal Canadiens', '4', 'Buffalo Sabres', '5', 'SO', '', '', '\n', 1, 2, '2006_2007'], ['2006-10-07', 'Buffalo Sabres', '4', 'Ottawa Senators', '3', '', '', '', '\n', 3, 3, '2006_2007'], ['2006-10-13', 'Buffalo Sabres', '3', 'Detroit Red Wings', '2', 'SO', '', '', '\n', 4, 4, '2006_2007'], ['2006-10-14', 'New York Rangers', '4', 'Buffalo Sabres', '7', '', '', '', '\n', 5, 5, '2006_2007'], ['2006-10-17', 'Philadelphia Flyers', '1', 'Buffalo Sabres', '9', '', '', '', '\n', 6, 6, '2006_2007'], ['2006-10-20', 'Carolina Hurricanes', '4', 'Buffalo Sabres', '5', '', '', '', '\n', 8, 7, '2006_2007'], ['2006-10-21', 'Buffalo Sabres', '6', 'Boston Bruins', '2', '', '', '', '\n', 8, 7, '2006_2007'], ['2006-10-23', 'Buffalo Sabres', '4', 'Montreal Canadiens', '1', '', '', '', '\n', 9, 8, '2006_2007'], ['2006-10-26', 'Buffalo Sabres', '3', 'New York Islanders', '0', '', '', '', '\n', 10, 9, '2006_2007']]
+10
+('2006_2007', 'Buffalo Sabres')
+[['2008-02-21', 'San Jose Sharks', '3', 'Philadelphia Flyers', '1', '', '', '', '\n', 61, 61, '2007_2008'], ['2008-02-24', 'San Jose Sharks', '2', 'Pittsburgh Penguins', '1', 'SO', '', '', '\n', 62, 63, '2007_2008'], ['2008-02-27', 'San Jose Sharks', '4', 'Columbus Blue Jackets', '2', '', '', '', '\n', 63, 65, '2007_2008'], ['2008-02-29', 'San Jose Sharks', '3', 'Detroit Red Wings', '2', '', '', '', '\n', 64, 66, '2007_2008'], ['2008-03-01', 'San Jose Sharks', '2', 'St. Louis Blues', '0', '', '', '', '\n', 65, 65, '2007_2008'], ['2008-03-03', 'Montreal Canadiens', '4', 'San Jose Sharks', '6', '', '', '', '\n', 67, 66, '2007_2008'], ['2008-03-05', 'Ottawa Senators', '2', 'San Jose Sharks', '3', 'OT', '', '', '\n', 68, 67, '2007_2008'], ['2008-03-07', 'San Jose Sharks', '3', 'Chicago Blackhawks', '2', '', '', '', '\n', 68, 68, '2007_2008'], ['2008-03-09', 'San Jose Sharks', '3', 'Minnesota Wild', '2', 'SO', '', '', '\n', 69, 70, '2007_2008'], ['2008-03-11', 'San Jose Sharks', '2', 'Nashville Predators', '1', '', '', '', '\n', 70, 71, '2007_2008'], ['2008-03-14', 'St. Louis Blues', '1', 'San Jose Sharks', '4', '', '', '', '\n', 71, 71, '2007_2008']]
+11
+('2007_2008', 'San Jose Sharks')
+[['2008-12-12', 'Boston Bruins', '7', 'Atlanta Thrashers', '3', '', '', '', '\n', 29, 28, '2008_2009'], ['2008-12-13', 'Atlanta Thrashers', '2', 'Boston Bruins', '4', '', '', '', '\n', 29, 30, '2008_2009'], ['2008-12-18', 'Toronto Maple Leafs', '5', 'Boston Bruins', '8', '', '', '', '\n', 31, 31, '2008_2009'], ['2008-12-20', 'Carolina Hurricanes', '2', 'Boston Bruins', '4', '', '', '', '\n', 33, 32, '2008_2009'], ['2008-12-21', 'Boston Bruins', '6', 'St. Louis Blues', '3', '', '', '', '\n', 33, 33, '2008_2009'], ['2008-12-23', 'Boston Bruins', '2', 'New Jersey Devils', '0', '', '', '', '\n', 34, 32, '2008_2009'], ['2008-12-27', 'Boston Bruins', '4', 'Carolina Hurricanes', '2', '', '', '', '\n', 35, 37, '2008_2009'], ['2008-12-28', 'Boston Bruins', '2', 'Atlanta Thrashers', '1', '', '', '', '\n', 36, 36, '2008_2009'], ['2008-12-30', 'Boston Bruins', '5', 'Pittsburgh Penguins', '2', '', '', '', '\n', 37, 37, '2008_2009'], ['2009-01-01', 'Pittsburgh Penguins', '2', 'Boston Bruins', '4', '', '', '', '\n', 38, 38, '2008_2009']]
+10
+('2008_2009', 'Boston Bruins')
+[['2010-01-14', 'Ottawa Senators', '2', 'New York Rangers', '0', '', '', '', '\n', 48, 47, '2009_2010'], ['2010-01-16', 'Ottawa Senators', '4', 'Montreal Canadiens', '2', '', '', '', '\n', 49, 49, '2009_2010'], ['2010-01-18', 'Ottawa Senators', '5', 'Boston Bruins', '1', '', '', '', '\n', 50, 48, '2009_2010'], ['2010-01-19', 'Chicago Blackhawks', '1', 'Ottawa Senators', '4', '', '', '', '\n', 50, 51, '2009_2010'], ['2010-01-21', 'St. Louis Blues', '2', 'Ottawa Senators', '3', '', '', '', '\n', 50, 52, '2009_2010'], ['2010-01-23', 'Ottawa Senators', '2', 'Boston Bruins', '1', '', '', '', '\n', 53, 50, '2009_2010'], ['2010-01-26', 'New Jersey Devils', '0', 'Ottawa Senators', '3', '', '', '', '\n', 51, 54, '2009_2010'], ['2010-01-28', 'Ottawa Senators', '4', 'Pittsburgh Penguins', '1', '', '', '', '\n', 55, 55, '2009_2010'], ['2010-01-30', 'Montreal Canadiens', '2', 'Ottawa Senators', '3', 'OT', '', '', '\n', 56, 56, '2009_2010'], ['2010-02-03', 'Ottawa Senators', '4', 'Buffalo Sabres', '2', '', '', '', '\n', 57, 55, '2009_2010'], ['2010-02-04', 'Vancouver Canucks', '1', 'Ottawa Senators', '3', '', '', '', '\n', 56, 58, '2009_2010']]
+11
+('2009_2010', 'Ottawa Senators')
+[['2010-01-13', 'Washington Capitals', '5', 'Florida Panthers', '4', 'SO', '', '', '\n', 46, 46, '2009_2010'], ['2010-01-15', 'Toronto Maple Leafs', '1', 'Washington Capitals', '6', '', '', '', '\n', 49, 47, '2009_2010'], ['2010-01-17', 'Philadelphia Flyers', '3', 'Washington Capitals', '5', '', '', '', '\n', 47, 48, '2009_2010'], ['2010-01-19', 'Detroit Red Wings', '2', 'Washington Capitals', '3', '', '', '', '\n', 49, 49, '2009_2010'], ['2010-01-21', 'Washington Capitals', '6', 'Pittsburgh Penguins', '3', '', '', '', '\n', 50, 52, '2009_2010'], ['2010-01-23', 'Phoenix Coyotes', '2', 'Washington Capitals', '4', '', '', '', '\n', 52, 51, '2009_2010'], ['2010-01-26', 'Washington Capitals', '7', 'New York Islanders', '2', '', '', '', '\n', 52, 53, '2009_2010'], ['2010-01-27', 'Anaheim Ducks', '1', 'Washington Capitals', '5', '', '', '', '\n', 54, 53, '2009_2010'], ['2010-01-29', 'Florida Panthers', '1', 'Washington Capitals', '4', '', '', '', '\n', 54, 54, '2009_2010'], ['2010-01-31', 'Tampa Bay Lightning', '2', 'Washington Capitals', '3', '', '', '', '\n', 54, 55, '2009_2010'], ['2010-02-02', 'Washington Capitals', '4', 'Boston Bruins', '1', '', '', '', '\n', 56, 54, '2009_2010'], ['2010-02-04', 'Washington Capitals', '6', 'New York Rangers', '5', '', '', '', '\n', 57, 58, '2009_2010'], ['2010-02-05', 'Atlanta Thrashers', '2', 'Washington Capitals', '5', '', '', '', '\n', 56, 58, '2009_2010'], ['2010-02-07', 'Pittsburgh Penguins', '4', 'Washington Capitals', '5', 'OT', '', '', '\n', 59, 59, '2009_2010']]
+14
+('2009_2010', 'Washington Capitals')
+[['2010-11-17', 'Vancouver Canucks', '1', 'Pittsburgh Penguins', '3', '', '', '', '\n', 18, 20, '2010_2011'], ['2010-11-19', 'Carolina Hurricanes', '4', 'Pittsburgh Penguins', '5', 'SO', '', '', '\n', 19, 21, '2010_2011'], ['2010-11-22', 'Pittsburgh Penguins', '3', 'Florida Panthers', '2', '', '', '', '\n', 22, 19, '2010_2011'], ['2010-11-24', 'Pittsburgh Penguins', '1', 'Buffalo Sabres', '0', '', '', '', '\n', 23, 23, '2010_2011'], ['2010-11-26', 'Ottawa Senators', '1', 'Pittsburgh Penguins', '2', '', '', '', '\n', 23, 24, '2010_2011'], ['2010-11-27', 'Calgary Flames', '1', 'Pittsburgh Penguins', '4', '', '', '', '\n', 23, 25, '2010_2011'], ['2010-11-29', 'Pittsburgh Penguins', '3', 'New York Rangers', '1', '', '', '', '\n', 26, 26, '2010_2011'], ['2010-12-02', 'Atlanta Thrashers', '2', 'Pittsburgh Penguins', '3', '', '', '', '\n', 26, 27, '2010_2011'], ['2010-12-04', 'Pittsburgh Penguins', '7', 'Columbus Blue Jackets', '2', '', '', '', '\n', 28, 25, '2010_2011'], ['2010-12-06', 'New Jersey Devils', '1', 'Pittsburgh Penguins', '2', '', '', '', '\n', 27, 29, '2010_2011'], ['2010-12-08', 'Toronto Maple Leafs', '2', 'Pittsburgh Penguins', '5', '', '', '', '\n', 27, 30, '2010_2011'], ['2010-12-11', 'Pittsburgh Penguins', '5', 'Buffalo Sabres', '2', '', '', '', '\n', 31, 30, '2010_2011']]
+12
+('2010_2011', 'Pittsburgh Penguins')
+[['2011-11-01', 'Ottawa Senators', '3', 'Boston Bruins', '5', '', '', '', '\n', 13, 11, '2011_2012'], ['2011-11-05', 'Boston Bruins', '7', 'Toronto Maple Leafs', '0', '', '', '', '\n', 12, 14, '2011_2012'], ['2011-11-07', 'New York Islanders', '2', 'Boston Bruins', '6', '', '', '', '\n', 12, 13, '2011_2012'], ['2011-11-10', 'Edmonton Oilers', '3', 'Boston Bruins', '6', '', '', '', '\n', 15, 14, '2011_2012'], ['2011-11-12', 'Buffalo Sabres', '2', 'Boston Bruins', '6', '', '', '', '\n', 16, 15, '2011_2012'], ['2011-11-15', 'New Jersey Devils', '3', 'Boston Bruins', '4', '', '', '', '\n', 16, 16, '2011_2012'], ['2011-11-17', 'Columbus Blue Jackets', '1', 'Boston Bruins', '2', 'SO', '', '', '\n', 18, 17, '2011_2012'], ['2011-11-19', 'Boston Bruins', '6', 'New York Islanders', '0', '', '', '', '\n', 18, 17, '2011_2012'], ['2011-11-21', 'Boston Bruins', '1', 'Montreal Canadiens', '0', '', '', '', '\n', 19, 21, '2011_2012'], ['2011-11-23', 'Boston Bruins', '4', 'Buffalo Sabres', '3', 'SO', '', '', '\n', 20, 21, '2011_2012']]
+10
+('2011_2012', 'Boston Bruins')
+[['2012-02-21', 'New York Rangers', '0', 'Pittsburgh Penguins', '2', '', '', '', '\n', 58, 60, '2011_2012'], ['2012-02-25', 'Tampa Bay Lightning', '1', 'Pittsburgh Penguins', '8', '', '', '', '\n', 61, 61, '2011_2012'], ['2012-02-26', 'Columbus Blue Jackets', '2', 'Pittsburgh Penguins', '4', '', '', '', '\n', 62, 62, '2011_2012'], ['2012-02-29', 'Pittsburgh Penguins', '4', 'Dallas Stars', '3', 'SO', '', '', '\n', 63, 64, '2011_2012'], ['2012-03-03', 'Pittsburgh Penguins', '5', 'Colorado Avalanche', '1', '', '', '', '\n', 64, 66, '2011_2012'], ['2012-03-05', 'Phoenix Coyotes', '1', 'Pittsburgh Penguins', '2', '', '', '', '\n', 66, 65, '2011_2012'], ['2012-03-07', 'Toronto Maple Leafs', '2', 'Pittsburgh Penguins', '3', '', '', '', '\n', 67, 66, '2011_2012'], ['2012-03-09', 'Florida Panthers', '1', 'Pittsburgh Penguins', '2', 'SO', '', '', '\n', 67, 67, '2011_2012'], ['2012-03-11', 'Boston Bruins', '2', 'Pittsburgh Penguins', '5', '', '', '', '\n', 68, 68, '2011_2012'], ['2012-03-15', 'Pittsburgh Penguins', '5', 'New York Rangers', '2', '', '', '', '\n', 69, 70, '2011_2012'], ['2012-03-17', 'Pittsburgh Penguins', '5', 'New Jersey Devils', '2', '', '', '', '\n', 70, 72, '2011_2012']]
+11
+('2011_2012', 'Pittsburgh Penguins')
+[['2013-12-06', 'Anaheim Ducks', '3', 'Chicago Blackhawks', '2', 'SO', '', '', '\n', 31, 31, '2013_2014'], ['2013-12-07', 'Anaheim Ducks', '5', 'St. Louis Blues', '2', '', '', '', '\n', 32, 28, '2013_2014'], ['2013-12-09', 'New York Islanders', '2', 'Anaheim Ducks', '5', '', '', '', '\n', 31, 33, '2013_2014'], ['2013-12-11', 'Minnesota Wild', '1', 'Anaheim Ducks', '2', '', '', '', '\n', 33, 34, '2013_2014'], ['2013-12-15', 'Edmonton Oilers', '2', 'Anaheim Ducks', '3', '', '', '', '\n', 35, 35, '2013_2014'], ['2013-12-17', 'Anaheim Ducks', '5', 'Detroit Red Wings', '2', '', '', '', '\n', 36, 36, '2013_2014'], ['2013-12-20', 'Anaheim Ducks', '3', 'New Jersey Devils', '2', 'OT', '', '', '\n', 37, 36, '2013_2014'], ['2013-12-21', 'Anaheim Ducks', '5', 'New York Islanders', '3', '', '', '', '\n', 38, 37, '2013_2014'], ['2013-12-23', 'Anaheim Ducks', '3', 'Washington Capitals', '2', '', '', '', '\n', 39, 37, '2013_2014'], ['2013-12-28', 'Phoenix Coyotes', '2', 'Anaheim Ducks', '3', 'OT', '', '', '\n', 38, 40, '2013_2014']]
+10
+('2013_2014', 'Anaheim Ducks')
+[['2014-03-02', 'Boston Bruins', '6', 'New York Rangers', '3', '', '', '', '\n', 60, 62, '2013_2014'], ['2014-03-04', 'Florida Panthers', '1', 'Boston Bruins', '4', '', '', '', '\n', 62, 61, '2013_2014'], ['2014-03-06', 'Washington Capitals', '0', 'Boston Bruins', '3', '', '', '', '\n', 64, 62, '2013_2014'], ['2014-03-08', 'Boston Bruins', '4', 'Tampa Bay Lightning', '3', 'SO', '', '', '\n', 63, 64, '2013_2014'], ['2014-03-09', 'Boston Bruins', '5', 'Florida Panthers', '2', '', '', '', '\n', 64, 64, '2013_2014'], ['2014-03-12', 'Boston Bruins', '4', 'Montreal Canadiens', '1', '', '', '', '\n', 65, 67, '2013_2014'], ['2014-03-13', 'Phoenix Coyotes', '1', 'Boston Bruins', '2', '', '', '', '\n', 67, 66, '2013_2014'], ['2014-03-15', 'Carolina Hurricanes', '1', 'Boston Bruins', '5', '', '', '', '\n', 70, 67, '2013_2014'], ['2014-03-17', 'Minnesota Wild', '1', 'Boston Bruins', '4', '', '', '', '\n', 68, 68, '2013_2014'], ['2014-03-18', 'Boston Bruins', '4', 'New Jersey Devils', '2', '', '', '', '\n', 69, 69, '2013_2014'], ['2014-03-21', 'Boston Bruins', '2', 'Colorado Avalanche', '0', '', '', '', '\n', 70, 71, '2013_2014'], ['2014-03-22', 'Boston Bruins', '4', 'Phoenix Coyotes', '2', '', '', '', '\n', 71, 71, '2013_2014']]
+12
+('2013_2014', 'Boston Bruins')
+[['2015-12-15', 'Florida Panthers', '5', 'New York Islanders', '1', '', '13656', '2:27', '\n', 31, 32, '2015_2016'], ['2015-12-17', 'Florida Panthers', '5', 'New Jersey Devils', '1', '', '12512', '2:21', '\n', 32, 32, '2015_2016'], ['2015-12-18', 'Florida Panthers', '2', 'Carolina Hurricanes', '0', '', '10511', '2:24', '\n', 33, 32, '2015_2016'], ['2015-12-20', 'Vancouver Canucks', '4', 'Florida Panthers', '5', 'SO', '13459', '4:31', '\n', 35, 34, '2015_2016'], ['2015-12-22', 'Ottawa Senators', '1', 'Florida Panthers', '2', 'SO', '14538', '2:41', '\n', 35, 35, '2015_2016'], ['2015-12-27', 'Columbus Blue Jackets', '2', 'Florida Panthers', '3', '', '16902', '2:27', '\n', 38, 36, '2015_2016'], ['2015-12-29', 'Montreal Canadiens', '1', 'Florida Panthers', '3', '', '19822', '2:29', '\n', 39, 37, '2015_2016'], ['2016-01-02', 'New York Rangers', '0', 'Florida Panthers', '3', '', '20289', '2:25', '\n', 39, 38, '2015_2016'], ['2016-01-03', 'Minnesota Wild', '1', 'Florida Panthers', '2', '', '15426', '2:33', '\n', 38, 39, '2015_2016'], ['2016-01-05', 'Florida Panthers', '5', 'Buffalo Sabres', '1', '', '18560', '2:27', '\n', 40, 40, '2015_2016'], ['2016-01-07', 'Florida Panthers', '3', 'Ottawa Senators', '2', '', '17150', '2:25', '\n', 41, 41, '2015_2016'], ['2016-01-10', 'Florida Panthers', '2', 'Edmonton Oilers', '1', '', '16839', '2:25', '\n', 42, 43, '2015_2016']]
+12
+('2015_2016', 'Florida Panthers')
+[['2015-12-29', 'Chicago Blackhawks', '7', 'Arizona Coyotes', '5', '', '17197', '2:43', '\n', 38, 36, '2015_2016'], ['2015-12-31', 'Chicago Blackhawks', '4', 'Colorado Avalanche', '3', 'OT', '18048', '2:29', '\n', 39, 38, '2015_2016'], ['2016-01-03', 'Ottawa Senators', '0', 'Chicago Blackhawks', '3', '', '22016', '2:21', '\n', 39, 40, '2015_2016'], ['2016-01-05', 'Chicago Blackhawks', '3', 'Pittsburgh Penguins', '2', 'OT', '18658', '2:28', '\n', 41, 39, '2015_2016'], ['2016-01-06', 'Pittsburgh Penguins', '1', 'Chicago Blackhawks', '3', '', '21908', '2:27', '\n', 40, 42, '2015_2016'], ['2016-01-08', 'Buffalo Sabres', '1', 'Chicago Blackhawks', '3', '', '22142', '2:28', '\n', 41, 43, '2015_2016'], ['2016-01-10', 'Colorado Avalanche', '3', 'Chicago Blackhawks', '6', '', '22007', '2:23', '\n', 43, 44, '2015_2016'], ['2016-01-12', 'Nashville Predators', '2', 'Chicago Blackhawks', '3', '', '21618', '2:28', '\n', 43, 45, '2015_2016'], ['2016-01-14', 'Chicago Blackhawks', '2', 'Montreal Canadiens', '1', '', '21288', '2:28', '\n', 46, 44, '2015_2016'], ['2016-01-15', 'Chicago Blackhawks', '4', 'Toronto Maple Leafs', '1', '', '20049', '2:30', '\n', 47, 42, '2015_2016'], ['2016-01-17', 'Montreal Canadiens', '2', 'Chicago Blackhawks', '5', '', '22030', '2:25', '\n', 46, 48, '2015_2016'], ['2016-01-19', 'Chicago Blackhawks', '4', 'Nashville Predators', '1', '', '17122', '2:24', '\n', 49, 46, '2015_2016']]
+12
+('2015_2016', 'Chicago Blackhawks')
+[['2016-02-13', 'Anaheim Ducks', '3', 'Chicago Blackhawks', '2', 'OT', '22107', '2:36', '\n', 54, 59, '2015_2016'], ['2016-02-15', 'Anaheim Ducks', '6', 'Calgary Flames', '4', '', '19289', '2:32', '\n', 55, 55, '2015_2016'], ['2016-02-16', 'Anaheim Ducks', '5', 'Edmonton Oilers', '3', '', '16839', '2:43', '\n', 56, 58, '2015_2016'], ['2016-02-18', 'Anaheim Ducks', '5', 'Vancouver Canucks', '2', '', '18435', '2:30', '\n', 57, 57, '2015_2016'], ['2016-02-21', 'Calgary Flames', '2', 'Anaheim Ducks', '5', '', '17174', '2:31', '\n', 58, 58, '2015_2016'], ['2016-02-24', 'Buffalo Sabres', '0', 'Anaheim Ducks', '1', '', '16543', '2:33', '\n', 61, 59, '2015_2016'], ['2016-02-26', 'Edmonton Oilers', '1', 'Anaheim Ducks', '2', 'OT', '17174', '2:18', '\n', 63, 60, '2015_2016'], ['2016-02-28', 'Los Angeles Kings', '2', 'Anaheim Ducks', '4', '', '17174', '2:44', '\n', 62, 61, '2015_2016'], ['2016-03-02', 'Montreal Canadiens', '2', 'Anaheim Ducks', '3', 'SO', '15273', '2:47', '\n', 64, 62, '2015_2016'], ['2016-03-03', 'Anaheim Ducks', '5', 'Arizona Coyotes', '1', '', '11999', '2:31', '\n', 63, 64, '2015_2016'], ['2016-03-05', 'Anaheim Ducks', '3', 'Los Angeles Kings', '2', '', '18230', '2:36', '\n', 64, 64, '2015_2016']]
+11
+('2015_2016', 'Anaheim Ducks')
+[['2016-11-27', 'Calgary Flames', '3', 'Philadelphia Flyers', '5', '', '19408', '2:38', '\n', 24, 23, '2016_2017'], ['2016-11-29', 'Boston Bruins', '2', 'Philadelphia Flyers', '3', 'SO', '19558', '2:57', '\n', 23, 24, '2016_2017'], ['2016-12-01', 'Philadelphia Flyers', '3', 'Ottawa Senators', '2', 'OT', '14334', '2:39', '\n', 25, 24, '2016_2017'], ['2016-12-03', 'Chicago Blackhawks', '1', 'Philadelphia Flyers', '3', '', '19487', '2:27', '\n', 26, 26, '2016_2017'], ['2016-12-04', 'Philadelphia Flyers', '4', 'Nashville Predators', '2', '', '17113', '2:34', '\n', 27, 24, '2016_2017'], ['2016-12-06', 'Florida Panthers', '2', 'Philadelphia Flyers', '3', 'OT', '18999', '2:41', '\n', 27, 28, '2016_2017'], ['2016-12-08', 'Edmonton Oilers', '5', 'Philadelphia Flyers', '6', '', '19346', '2:35', '\n', 29, 29, '2016_2017'], ['2016-12-10', 'Dallas Stars', '2', 'Philadelphia Flyers', '4', '', '19594', '2:44', '\n', 29, 30, '2016_2017'], ['2016-12-11', 'Philadelphia Flyers', '1', 'Detroit Red Wings', '0', 'OT', '20027', '2:41', '\n', 31, 29, '2016_2017'], ['2016-12-14', 'Philadelphia Flyers', '4', 'Colorado Avalanche', '3', '', '14456', '2:33', '\n', 32, 28, '2016_2017']]
+10
+('2016_2017', 'Philadelphia Flyers')
+[['2016-12-04', 'Minnesota Wild', '2', 'Edmonton Oilers', '1', 'OT', '18347', '2:41', '\n', 24, 27, '2016_2017'], ['2016-12-07', 'Minnesota Wild', '3', 'Toronto Maple Leafs', '2', '', '18944', '2:35', '\n', 25, 25, '2016_2017'], ['2016-12-09', 'Edmonton Oilers', '2', 'Minnesota Wild', '3', 'SO', '19019', '2:59', '\n', 30, 26, '2016_2017'], ['2016-12-11', 'St. Louis Blues', '1', 'Minnesota Wild', '3', '', '18363', '2:51', '\n', 29, 27, '2016_2017'], ['2016-12-13', 'Florida Panthers', '1', 'Minnesota Wild', '5', '', '18754', '2:45', '\n', 30, 28, '2016_2017'], ['2016-12-15', 'Minnesota Wild', '5', 'Nashville Predators', '2', '', '17113', '2:33', '\n', 29, 29, '2016_2017'], ['2016-12-17', 'Arizona Coyotes', '1', 'Minnesota Wild', '4', '', '19036', '2:30', '\n', 31, 30, '2016_2017'], ['2016-12-20', 'Colorado Avalanche', '0', 'Minnesota Wild', '2', '', '19018', '2:21', '\n', 31, 31, '2016_2017'], ['2016-12-22', 'Minnesota Wild', '4', 'Montreal Canadiens', '2', '', '21288', '2:34', '\n', 32, 33, '2016_2017'], ['2016-12-23', 'Minnesota Wild', '7', 'New York Rangers', '4', '', '18006', '2:25', '\n', 33, 36, '2016_2017'], ['2016-12-27', 'Minnesota Wild', '3', 'Nashville Predators', '2', 'OT', '17141', '2:35', '\n', 34, 34, '2016_2017'], ['2016-12-29', 'New York Islanders', '4', 'Minnesota Wild', '6', '', '19252', '2:36', '\n', 35, 35, '2016_2017']]
+12
+('2016_2017', 'Minnesota Wild')
+[['2016-11-29', 'Tampa Bay Lightning', '1', 'Columbus Blue Jackets', '5', '', '10366', '2:30', '\n', 24, 21, '2016_2017'], ['2016-12-01', 'Columbus Blue Jackets', '3', 'Colorado Avalanche', '2', '', '12141', '2:25', '\n', 22, 22, '2016_2017'], ['2016-12-03', 'Columbus Blue Jackets', '3', 'Arizona Coyotes', '2', 'SO', '11287', '2:58', '\n', 23, 23, '2016_2017'], ['2016-12-05', 'Arizona Coyotes', '1', 'Columbus Blue Jackets', '4', '', '11091', '2:28', '\n', 24, 24, '2016_2017'], ['2016-12-09', 'Columbus Blue Jackets', '4', 'Detroit Red Wings', '1', '', '20027', '2:33', '\n', 25, 28, '2016_2017'], ['2016-12-10', 'New York Islanders', '2', 'Columbus Blue Jackets', '6', '', '16928', '2:30', '\n', 27, 26, '2016_2017'], ['2016-12-13', 'Columbus Blue Jackets', '3', 'Edmonton Oilers', '1', '', '18347', '2:27', '\n', 27, 32, '2016_2017'], ['2016-12-16', 'Columbus Blue Jackets', '4', 'Calgary Flames', '1', '', '18045', '2:22', '\n', 28, 33, '2016_2017'], ['2016-12-18', 'Columbus Blue Jackets', '4', 'Vancouver Canucks', '3', 'OT', '18113', '2:24', '\n', 29, 32, '2016_2017'], ['2016-12-20', 'Los Angeles Kings', '2', 'Columbus Blue Jackets', '3', 'SO', '16568', '2:42', '\n', 32, 30, '2016_2017'], ['2016-12-22', 'Pittsburgh Penguins', '1', 'Columbus Blue Jackets', '7', '', '19115', '2:36', '\n', 34, 31, '2016_2017'], ['2016-12-23', 'Montreal Canadiens', '1', 'Columbus Blue Jackets', '2', '', '18147', '2:31', '\n', 34, 32, '2016_2017'], ['2016-12-27', 'Boston Bruins', '3', 'Columbus Blue Jackets', '4', '', '19005', '2:33', '\n', 37, 33, '2016_2017'], ['2016-12-29', 'Columbus Blue Jackets', '5', 'Winnipeg Jets', '3', '', '15294', '2:34', '\n', 34, 38, '2016_2017'], ['2016-12-31', 'Columbus Blue Jackets', '4', 'Minnesota Wild', '2', '', '19307', '2:36', '\n', 35, 36, '2016_2017'], ['2017-01-03', 'Edmonton Oilers', '1', 'Columbus Blue Jackets', '3', '', '17169', '2:28', '\n', 39, 36, '2016_2017']]
+16
+('2016_2017', 'Columbus Blue Jackets')
+[['2017-02-21', 'Calgary Flames', '6', 'Nashville Predators', '5', 'OT', '17113', '2:51', '\n', 60, 59, '2016_2017'], ['2017-02-23', 'Calgary Flames', '3', 'Tampa Bay Lightning', '2', '', '19092', '2:32', '\n', 61, 60, '2016_2017'], ['2017-02-24', 'Calgary Flames', '4', 'Florida Panthers', '2', '', '14765', '2:31', '\n', 62, 60, '2016_2017'], ['2017-02-26', 'Calgary Flames', '3', 'Carolina Hurricanes', '1', '', '14112', '2:21', '\n', 63, 58, '2016_2017'], ['2017-02-28', 'Los Angeles Kings', '1', 'Calgary Flames', '2', 'OT', '19289', '2:44', '\n', 63, 64, '2016_2017'], ['2017-03-03', 'Detroit Red Wings', '2', 'Calgary Flames', '3', 'OT', '19289', '2:39', '\n', 62, 65, '2016_2017'], ['2017-03-05', 'New York Islanders', '2', 'Calgary Flames', '5', '', '18741', '2:27', '\n', 64, 66, '2016_2017'], ['2017-03-09', 'Montreal Canadiens', '0', 'Calgary Flames', '5', '', '19289', '2:33', '\n', 68, 67, '2016_2017'], ['2017-03-11', 'Calgary Flames', '3', 'Winnipeg Jets', '0', '', '15294', '2:31', '\n', 68, 69, '2016_2017'], ['2017-03-13', 'Pittsburgh Penguins', '3', 'Calgary Flames', '4', 'SO', '19289', '2:45', '\n', 68, 69, '2016_2017']]
+10
+('2016_2017', 'Calgary Flames')
